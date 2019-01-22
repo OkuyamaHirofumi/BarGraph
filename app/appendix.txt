@@ -1,0 +1,11 @@
+MPAndroidChartでシンプルな棒グラフの作成
+https://qiita.com/iKimishima/items/7fd192a074739cf5290b
+
+Android：グラフ表示で表現豊かに。MPAndroidChart を使ってみよう！
+https://moneyforward.com/engineers_blog/2015/10/20/mpandroidchart/
+
+Android Bar Chart Using MpAndroidChart Library Tutorial
+https://www.numetriclabz.com/android-bar-chart-using-mpandroidchart-library-tutorial/
+
+新人研修の記録5
+http://www.gigas-jp.com/appnews/archives/6153

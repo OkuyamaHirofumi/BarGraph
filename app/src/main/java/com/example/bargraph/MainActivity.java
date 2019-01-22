@@ -103,4 +103,11 @@ public class MainActivity extends AppCompatActivity {
         return barData;
     }
 
+    private BarData createZandakaData() {
+        ArrayList<BarEntry> entries = new ArrayList<>();
+        for (int i = 0; i < 12; i++) {
+            entries.add(new BarEntry(i*10 , i));
+
+        }
+    }
 }
